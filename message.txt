@@ -1,1 +1,1 @@
-hello students
+This is my message text file 
